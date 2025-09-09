@@ -1,0 +1,5 @@
+RENTA_FIJA = 0.05
+
+BETA= 1.05
+
+RM = 0.08
